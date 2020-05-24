@@ -1,0 +1,27 @@
+reg_time:Registration time 注册时间
+reg_capital: Registered capital 注册资本
+field: Field 行业
+area: Area 区域
+company_type:Type of company 企业类型
+controller_type:Type of controller 控制人类型
+controller_share_ratio:Controller's shareholding ratio 控制人持股比例
+patent:Patent 专利
+trademark: Trademark 商标
+copyright: Copyright 著作权
+DFA: Debt financing amount  债权融资额度
+DFC: Debt financing cost  债权融资成本
+EFQ: Equity financing quota 股权融资额度
+EFC: Equity financing cost 股权融资成本
+IFTFQ: Internal financing and trade financing quota 内部融资和贸易融资额度
+IFTFC: Internal financing and trade financing cost 内部融资和贸易融资成本
+PFPFQ: Project financing and policy financing quota 项目融资和政策融资额度
+PFPFC: Project financing and policy financing cost 项目融资和政策融资成本
+emp_num: Number of employees 从业人数
+asset: Total assets 资产总额
+debt:Total liabilities 负债总额
+op_income: Total operating income 营业总收入
+main_income: Main business income 主营业务收入
+total_profit: Total profit 利润总额
+net_profit:Net profit 净利润
+tax:Total tax paid 纳税总额
+total_equity: Total owner's equity 所有者权益合计
